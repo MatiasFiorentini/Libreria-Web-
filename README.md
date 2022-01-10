@@ -1,5 +1,8 @@
 # 🖱💻 Libreria Web 📘📖
-Este es un proyecto realizado como un ejercicio en el lenguaje Java 8 utilizando:
+
+Este ejercicio es parte del curso FullStack Developer del EGG Cooperation Institute.
+
+Este es un proyecto en el lenguaje Java 8 utilizando:
 
 ✔ base de datos MySQL.
 
