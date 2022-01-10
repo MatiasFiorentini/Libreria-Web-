@@ -1,0 +1,22 @@
+body, html {
+   height: 100%;
+ }
+
+
+.fondo{
+   background-image: url("../css/img/libros.gif");     
+   background-size: cover; /* agrando imagen */
+   margin: 10px;
+   background-repeat: no-repeat;
+}
+
+i{
+   font-size: 33px;
+}
+
+.centrado{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   min-height: 50vh;
+}
